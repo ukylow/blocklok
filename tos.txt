@@ -1,0 +1,923 @@
+||anoboy.show/*$image
+
+! 2022-11-11 https://65.108.132.145
+65.108.132.145##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
+65.108.132.145###teaser1
+65.108.132.145###teaser3
+65.108.132.145##.sg-popup-content.sgpb-theme-1-content.sgpb-content-19287.sgpb-content
+65.108.132.145##.kln.mlb.blox
+65.108.132.145##div.kln:nth-of-type(1)
+65.108.132.145##div.section:nth-of-type(2)
+65.108.132.145##div.kln:nth-of-type(3)
+65.108.132.145##div.kln:nth-of-type(2)
+65.108.132.145##div.kln:nth-of-type(6)
+
+
+
+! 2022-11-12 https://cut-y.net
+cut-y.net##.steps-to-earn
+||cut-y.net/images/public/heading-background.png$image
+cut-y.net##.inner-container
+cut-y.net##.main-footer
+||cut-y.net/images/public/heading-background.png$image
+cut-y.net##.share-icons-content
+||cut-y.net/images/public/heading-background.png$image
+cut-y.net###nav-header
+cut-y.net##.partners-container
+
+! 2022-11-12 https://linksfy.co
+linksfy.co##.navbar-default.navbar
+linksfy.co##.container-fluid
+||linksfy.co/modern_theme/build/img/footer.jpg$image
+linksfy.co##footer
+linksfy.co##.text-left
+
+! 2022-11-12 https://news.jiotech.net
+||news.jiotech.net/wp-content/themes/newsup/images/head-back.jpg$image
+news.jiotech.net##.col-md-9
+news.jiotech.net###content > .container-fluid > .row
+news.jiotech.net##.mg-posts-sec-inner.mr-bot40.container-fluid
+news.jiotech.net##footer > .overlay
+news.jiotech.net###content
+news.jiotech.net###iframe-wrapper-1833805858637
+news.jiotech.net##center:nth-of-type(5)
+news.jiotech.net##.mg-headwidget
+
+! 2022-11-12 https://jiotech.net
+jiotech.net###content
+
+! 2022-11-12 https://webhostingpost.com
+webhostingpost.com##p
+webhostingpost.com##h2.text-center
+
+! 2022-11-12 https://jiotech.net
+jiotech.net##.mg-fea-area
+jiotech.net##.mg-posts-sec-inner.mr-bot40.container-fluid
+jiotech.net##footer > .overlay
+jiotech.net##.navbar-collapse.collapse
+||jiotech.net/blog/wp-content/themes/newsup/images/head-back.jpg$image
+jiotech.net##.flex-row-reverse.container-fluid
+jiotech.net##.hidden-xs.mg-head-detail > .container-fluid > .row
+
+! 2022-11-12 https://dutchycorp.ovh
+dutchycorp.ovh###container_auto_movable_003300370039003700320034
+dutchycorp.ovh###cookie-pop
+dutchycorp.ovh##b > .hide-on-small-only
+||dutchycorp.ovh/sh/modern_theme/build/img/footer.jpg$image
+dutchycorp.ovh##footer
+
+! 2022-11-12 https://bitlinks.pw
+bitlinks.pw##div.text-left
+
+
+! 2022-11-12 https://www.bagas31.info
+www.bagas31.info##.frame-banner-places-popup
+www.bagas31.info##.socialproff-bottom
+www.bagas31.info##.popup-rl-custom3
+
+
+! 2022-11-14 https://194.163.183.129
+194.163.183.129###floatbottom
+||194.163.183.129/wp-content/uploads/2022/11/pandoragif.gif$image
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknTYsaZDa0YHDQYvD0buEOoANvtwYB1F0QU9FKXt-wVYAoKi8iHYtsDnfPBOgCbyxh0BusdU3Rz07AYgFDzhC7zqQKhWeRSnPVTN0bGIt_HMUSr5e1n7m2YCWw9Bk_hKHJvVfieF8JWxGb7cfr6MqwqzGXkuI2uknHOm2hadBLnj6-InfjjGKW_Pa/s720/banner.gif$image
+||194.163.183.129/wp-content/uploads/2022/09/samehada-RI-final.gif$image
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQMswjut6PVie8OwzLxBtZ3Gi2GViEp5aoQ7LQ0JiRrtKKr2u0Qtd_D662LOlM5xxZSi5i9d8Hmm91ZL4wGQ4dx10lnLW1kgj-tfPdUphiOMHXcEcZdVoXqP0RU8XE9GhN14vwP3ysFx0frYoQsIgKtoCUQ8wY28ZAPeVxpPkaDtu1gOcVI7DFxN3DSw/s720/samehada_RB_final__2__7u1nHwITT.gif$image
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQI7h-ILH5nlzQ6qX4Ll9om9CuajovZ01iwF8tX7GdGPxXaCmIzy5MJ6CjdSJUte044MjKmk9tJ5_H4OVkqhW8orhM8UhKis2mR00s-SxNAqARA0RdREC1BUcYyOkIGxQVREyAh9yM1h0tReffTGIiuQ2E2IKbc0R3OLG8HfePTK59d230Zmpe4wDaA/s720/final_RB_samehada_Y8E-IYHAg.gif$image
+
+! 2022-11-14 https://107.152.37.223
+107.152.37.223##div.kln > div > center
+107.152.37.223##div.kln > center
+107.152.37.223##div#teaser3.teaser3:nth-of-type(5) > .blox > center
+107.152.37.223##.blox > center
+107.152.37.223##div#teaser3.teaser3 > div
+
+! 2022-11-15 https://linkpay.cc
+linkpay.cc##footer
+linkpay.cc##.container-fluid
+
+
+! 2022-11-15 https://enit.in
+enit.in##li:nth-of-type(1)
+enit.in##center > p
+enit.in##.text-left
+
+! 2022-11-15 https://link.egfly.xyz
+||link.egfly.xyz/cloud_theme/build/img/header.jpg$image
+||link.egfly.xyz/cloud_theme/build/img/footer.jpg$image
+link.egfly.xyz##.container-fluid
+link.egfly.xyz##footer
+link.egfly.xyz##[href="https://earnhub.net/"]
+
+! 2022-11-15 https://jiotech.net
+jiotech.net##.mg-nav-widget-area-back > .overlay
+
+! 2022-11-19 https://firefaucet.win
+firefaucet.win###container_auto_movable_003700320031003100320034
+firefaucet.win###twitter_pop
+firefaucet.win##[href="//agacelebir.com/4/2903900"]
+
+! 2022-11-24 https://articles.blog-forall.com
+articles.blog-forall.com##.mh-clearfix.mh-wrapper
+
+! 2022-11-26 https://firefaucet.win
+firefaucet.win##.widget__grid
+firefaucet.win##.advert-code-baserightsidebar2.advert-code
+firefaucet.win##.advert-code-baseleftsidebar2.advert-code
+firefaucet.win##.advert-code-baseleftsidebar1.advert-code
+firefaucet.win##.advert-code-baserightsidebar1.advert-code
+
+! 2022-11-27 https://enit.in
+enit.in###orquidea-slideup
+
+! 2022-11-27 https://business.blog-forall.com
+business.blog-forall.com##.tag-amc-pacer.tag-1976-amc-pacer.category-cars.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-156
+business.blog-forall.com##.mh-clearfix.mh-wrapper
+
+! 2022-11-27 https://jiotech.net
+jiotech.net##.mg-tpt-tag-area
+jiotech.net##.mg-latest-news
+
+! 2022-11-28 https://money.blog-forall.com
+money.blog-forall.com##.mh-clearfix.mh-wrapper
+
+! 2022-11-28 https://gold.blog-forall.com
+gold.blog-forall.com##.mh-clearfix.mh-wrapper
+
+! 2022-11-28 https://last.blog-forall.com
+last.blog-forall.com##.mh-clearfix.mh-wrapper
+
+! 2022-11-28 https://linka.click
+linka.click##.text-left
+linka.click##.container-fluid
+||linka.click/modern_theme/build/img/footer.jpg$image
+linka.click##footer
+linka.click##.navbar-default.navbar
+
+! 2022-11-28 https://ccurl.net
+ccurl.net##footer
+ccurl.net###cookie-pop
+ccurl.net##.text-left
+ccurl.net##.navbar-default.navbar
+
+! 2022-11-28 https://go.cashurl.in
+go.cashurl.in##.text-left
+go.cashurl.in##footer
+go.cashurl.in##.navbar-default.navbar
+go.cashurl.in##body > div:nth-of-type(3)
+
+! 2022-11-28 https://yocto.link
+yocto.link##.text-left
+
+! 2022-11-28 https://linkpay.cc
+linkpay.cc##.navbar-default.navbar
+
+! 2022-11-28 https://bitlinks.pw
+bitlinks.pw##.navbar
+
+! 2022-11-28 https://go.bitcoinly.in
+go.bitcoinly.in##.text-left
+go.bitcoinly.in##footer
+go.bitcoinly.in##.navbar-default.navbar
+go.bitcoinly.in##body > div:nth-of-type(3)
+
+! 2022-11-28 https://cuturl.in
+cuturl.in##.main-footer
+cuturl.in##div:nth-of-type(4)
+cuturl.in##body > div:nth-of-type(3)
+||images.dmca.com/Badges/_dmca_premi_badge_6.png?ID=25f7667a-ab04-40e8-9e02-3d64acb824c8$image
+cuturl.in##.dmca-badge
+cuturl.in##center
+cuturl.in##.navbar
+
+! 2022-11-28 https://cashearn.cc
+cashearn.cc##.px-2.text-left
+cashearn.cc##.navbar
+cashearn.cc##div.text-left:nth-of-type(5)
+cashearn.cc###cookie-pop
+cashearn.cc##.main-footer
+
+! 2022-11-28 https://oko.sh
+oko.sh##.td-container-wrap.td-main-content-wrap
+oko.sh##.td-container-wrap.td-sub-footer-container
+oko.sh##.td-header-menu-wrap
+
+! 2022-11-28 https://komikindo.id
+komikindo.id##iframe:nth-of-type(3)
+
+! 2022-11-29 https://articles.blog-forall.com
+articles.blog-forall.com##.mh-footer
+articles.blog-forall.com##.mh-copyright-wrap
+articles.blog-forall.com##.mh-site-logo
+articles.blog-forall.com##.mh-clearfix.mh-container-inner.mh-container.mh-main-nav.mh-navigation
+
+! 2022-11-29 https://ouo.io
+ouo.io##header
+ouo.io##.footer-copy
+
+! 2022-11-29 https://gold.blog-forall.com
+gold.blog-forall.com##.mh-copyright-wrap
+gold.blog-forall.com##.mh-site-logo
+gold.blog-forall.com##.mh-clearfix.mh-container-inner.mh-container.mh-main-nav.mh-navigation
+
+! 2022-11-29 https://last.blog-forall.com
+last.blog-forall.com##.mh-footer
+last.blog-forall.com##.mh-copyright-wrap
+last.blog-forall.com##.mh-site-logo
+last.blog-forall.com##.mh-clearfix.mh-container-inner.mh-container.mh-main-nav.mh-navigation
+
+! 2022-11-29 https://cashearn.cc
+cashearn.cc###link-view > .text-left
+
+! 2022-11-30 https://games.blog-forall.com
+games.blog-forall.com##.tag-make-money-from-the-internet.tag-earn-free-money.category-earn-free-money.category-business.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-405
+
+! 2022-12-01 https://linkpay.cc
+linkpay.cc##.text-left
+
+! 2022-12-01 https://go.fire-link.net
+go.fire-link.net##.mb-3.social-icons
+go.fire-link.net##.panel-body
+
+! 2022-12-01 https://coinsparty.com
+coinsparty.com###cookie-pop
+coinsparty.com##.text-left
+
+! 2022-12-03 https://money.blog-forall.com
+money.blog-forall.com##.mh-copyright-wrap
+money.blog-forall.com##.slicknav_menu
+money.blog-forall.com##.mh-site-logo
+
+! 2022-12-04 https://firefaucet.win
+firefaucet.win##.info-box
+
+! 2022-12-04 https://games.blog-forall.com
+games.blog-forall.com##.mh-footer
+games.blog-forall.com##.mh-copyright-wrap
+games.blog-forall.com##.mh-site-logo
+games.blog-forall.com##.mh-clearfix.mh-container-inner.mh-container.mh-main-nav.mh-navigation
+
+! 2022-12-04 https://manganime.in
+manganime.in##.asd
+manganime.in##.textwidget
+manganime.in###ftads
+manganime.in##.float_tengah
+
+! 2022-12-05 https://luckydice.net
+luckydice.net##.adb
+luckydice.net##.adb
+
+! 2022-12-06 https://gameitu.com
+gameitu.com###mySpan
+gameitu.com##.g1-row-layout-page.g1-row-padding-m.g1-row
+
+! 2022-12-06 https://mcrypto.club
+mcrypto.club##.css-1o7v0iv
+mcrypto.club##.css-1ecp1on.qc-cmp-cleanslate
+
+! 2022-12-07 https://samehadaku.win
+samehadaku.win###floatcenter
+samehadaku.win###floatbottom
+samehadaku.win###main > [href]
+
+! 2022-12-07 https://mangaku.vip
+mangaku.vip###ftads
+
+! 2022-12-09 https://88.210.12.206
+88.210.12.206##.swal-overlay--show-modal.swal-overlay
+
+! 2022-12-10 https://games.blog-forall.com
+games.blog-forall.com##.tag-earn-free-money.category-earn-free-money.category-business.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-225
+
+! 2022-12-15 https://bitlinks.pw
+bitlinks.pw##.gPtRrR.sc-fznxKY
+
+! 2022-12-22 https://howifx.com
+howifx.com###__vliadb83-bg
+
+! 2022-12-29 http://127.0.0.1
+127.0.0.1##.modal-login
+
+! 2022-12-29 https://buananetpbun.github.io
+buananetpbun.github.io##.modal-login
+buananetpbun.github.io###myModal
+
+! 2022-12-30 https://vocalley.com
+vocalley.com###__vliadb83-bg
+vocalley.com##main
+vocalley.com##.__vliadb83-content
+
+! 2022-12-31 https://vavada5com.com
+vavada5com.com###__vliadb83-bg
+vavada5com.com###__vliadb83
+
+! 2023-01-08 https://vocalley.com
+vocalley.com##.__vliadb83-content
+vocalley.com###__vliadb83-bg
+vocalley.com###__vliadb83-bg
+vocalley.com###__vliadb83-bg
+vocalley.com##.__vliadb83-content
+vocalley.com###__vliadb83-bg
+vocalley.com###__vliadb83-bg
+
+! 2023-01-08 https://firefaucet.win
+firefaucet.win##.widget
+
+! 2023-01-10 https://jiotech.net
+jiotech.net##.container-fluid > .row > .col-md-3
+
+! 2023-01-11 https://15.235.11.45
+15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
+15.235.11.45##.kln.mlb.blox
+15.235.11.45###teaser3
+15.235.11.45###teaser1
+15.235.11.45##div.kln:nth-of-type(1)
+15.235.11.45##div.kln:nth-of-type(3)
+15.235.11.45##.sgpb-popup-dialog-main-div-wrapper
+15.235.11.45##.textwidget
+
+! 2023-01-11 https://doronime.id
+doronime.id##.col-lg-3.col-12.Sidebar > .Content__banner--center.Content__banner
+doronime.id##.row.Content > .col-12 > .Content__banner--center.Content__banner
+doronime.id##.container.Body__content > .Content__banner--center.Content__banner
+
+! 2023-01-11 https://vocalley.com
+vocalley.com###__vliadb83-bg
+vocalley.com###__vliadb83-bg
+
+! 2023-01-14 https://15.235.11.45
+15.235.11.45##div.kln:nth-of-type(2)
+15.235.11.45##div.kln:nth-of-type(6)
+
+! 2023-01-14 https://samehadaku.win
+samehadaku.win##[href="http://tembus.xyz/samehadaku"]
+samehadaku.win##[href="https://www.royaleinfinity888.com/id-ID/Home"]
+samehadaku.win##[href="https://klik.fun/Rtsys"]
+samehadaku.win##[href="https://gokkenroyale888.com/"]
+samehadaku.win##[href="https://www.royaleboss888.com/id-ID/Home"]
+samehadaku.win##div.widget_senction:nth-of-type(1)
+
+! 2023-01-14 https://komikindo.id
+komikindo.id##.gambar_pemanis
+
+! 2023-01-16 https://hot.grid.id
+hot.grid.id##p:nth-of-type(13)
+hot.grid.id##p:nth-of-type(26)
+hot.grid.id##p:nth-of-type(39)
+
+! 2023-01-17 https://promo-visits.site
+promo-visits.site##.button3
+||interstitial-07.com/$subdocument
+||interstitial-07.com/?l=T5Irl4G71WJhuLP&cd_meta_crid=50535&trkintimp&target_url=https%3A%2F%2Fnanouwho.com%2F12%3Frnd%3D3099483111%26z%3D5565414%26b%3D13479764%26c%3D5719681%26var%3D%26d%3Dhttps%253A%252F%252Flirunexmarkets.com%253Futm_source%253DPropeller%252BAds%2526utm_medium%253DBranding%252BBanner%2526utm_campaign%253D3rd%252BParty%252BPlatform%252BPropeller%252BAds%252BBranding%252BBanner%26cln%3D1%26btp%3D7%26rb%3DMjRgx95Yo3y9-eVmM1z0MQ1jI6iJ6aU09dxEJQiq7FD7cT_yTWfD32V9dhDAjtkrSRfe84B8tsLaYHskkkTKYEA7sp1r7sLX31ZhtG-Y-QmPUz-LoGIPMpUdGXMui1n7gJ6G9I29kquo5iN4y7mmoGbIq22c0lQXOWdCpYgUpdDwAsXYyn4Yo7CGuGE6Utv_tSyy1fEt5DMvWAKGTWmxIwwujtPvDD64Jxo4D7Iy8wz1UySDx6AbqLYPN1eYG47RrMExNgEqXESlf7lqRTQomfYUMvub4xD6e8r7DSnw-Wyg_V2dwxKPpIIOeQZavYVo53cFAV65EtWEP1VmDKk5pRmfi9l_VvessHNkpB2lYLpYNz1Zgau6SMjzvScmR2Wn5zwaoKyqjMvzC5kOBaHVQhRo71jWnmHaoqA_J3sPPujgsA8QdI9g_Jalw2GU49_y2o0O4QwGNwNQ4GnJS-ce6T38feLT1DnnvpXDBhXeRw_9EPGAIngpprzBLo-s354mGC9nlzDu7vN95fWoCkX3VFsxG3NCXmber4sJOXKBvr8vYDKL2ExCjy6EbQPI-UPIjeF-vtTqJNToY7Oh$subdocument
+
+! 2023-01-18 https://jiotech.net
+jiotech.net##.container-fluid > .row > .col-md-3
+
+! 2023-01-20 https://firefaucet.win
+firefaucet.win##.advert-code-faucetbox2.advert-code
+firefaucet.win##.advert-code-commonstickyhr.advert-code
+firefaucet.win##.advert-code-commonhr.advert-code
+
+! 2023-01-21 https://msguides.com
+msguides.com##.kknbnpcvhomb
+
+! 2023-01-21 https://blogginglass.com
+blogginglass.com##.inside-article
+blogginglass.com##.widget_categories.inner-padding.widget
+blogginglass.com###block-55
+blogginglass.com###block-51
+blogginglass.com##.inside-right-sidebar
+blogginglass.com##.inside-site-info
+blogginglass.com##.stuckElement.sub-menu-right.has-menu-bar-items.nav-align-right.main-navigation.has-sticky-branding.has-branding.auto-hide-sticky
+
+! 2023-01-24 https://mangaku.vip
+mangaku.vip##.adv
+
+! 2023-01-30 https://fire-link.net
+fire-link.net##.box-main > div.banner-captcha.banner > .banner-inner > [href="https://bit.ly/slpromo31"]
+fire-link.net###link-view > div > div.banner-captcha.banner
+
+! 2023-01-30 https://go.cuturl.in
+go.cuturl.in##div:nth-of-type(5)
+go.cuturl.in##.banner-captcha.banner
+go.cuturl.in##.text-left
+
+! 2023-02-01 http://207.244.250.35
+207.244.250.35##div.container:nth-of-type(1)
+||207.244.250.35/wp-content/uploads/2023/01/VISABET88_GIF_Banner_1080x90-1.gif$image
+
+! 2023-02-02 https://mangakyo.id
+mangakyo.id##.kln.mlb.blox
+mangakyo.id###teaser3
+
+! 2023-02-13 https://vocalley.com
+vocalley.com###__vliadb83-bg
+vocalley.com###__vliadb83-bg
+vocalley.com###__vliadb83-bg
+
+! 2023-02-14 https://vocalley.com
+vocalley.com###__vliadb83-bg
+
+! 2023-02-17 https://91.201.113.103
+91.201.113.103##.swal-overlay--show-modal.swal-overlay
+
+! 2023-02-20 https://samehadaku.run
+samehadaku.run###floatcenter
+samehadaku.run##[href="https://klik.fun/84JHp"]
+samehadaku.run##[href="https://klik.fun/samehajp"]
+samehadaku.run##[href="https://klik.fun/sameeksp90"]
+samehadaku.run##[href="https://tinyurl.com/samehadakuklik"]
+samehadaku.run###floatbottom
+samehadaku.run##[href="https://tinyurl.com/samehadaku36"]
+
+! 2023-02-25 http://31.172.83.181
+31.172.83.181###ouibounce-modal
+31.172.83.181##.idmuvi-topbanner
+31.172.83.181###floating_banner_top1
+31.172.83.181##.idmuvi-floatbanner-footer.idmuvi-floatbanner > .container
+31.172.83.181###footer-sidebar
+31.172.83.181##[href="https://rebrand.ly/mj-iklan21"]
+31.172.83.181##[href="https://s.id/IDLIX88"]
+31.172.83.181##[href="https://cutt.ly/t0BrGFM"]
+31.172.83.181##[href="https://rebrand.ly/mp-iklan21"]
+31.172.83.181##[href="https://rebrand.ly/sp-iklan21"]
+31.172.83.181##[href="http://zlink.fun/idl88pro"]
+
+! 2023-02-26 https://webhostingpost.com
+webhostingpost.com##div:nth-of-type(3)
+webhostingpost.com##center
+
+! 2023-02-27 https://mangaku.vip
+mangaku.vip##[href="https://rebrand.ly/okp3by8"]
+
+! 2023-02-27 https://15.235.11.45
+15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-6-overlay
+
+! 2023-02-27 https://webhostingpost.com
+webhostingpost.com##p
+
+! 2023-02-28 https://firefaucet.win
+firefaucet.win###popup_id_wrap
+
+! 2023-03-08 https://mangakyo.co
+mangakyo.co##.kln.mlb.blox
+mangakyo.co###teaser3
+
+
+
+! 2023-03-13 https://46.151.30.194
+46.151.30.194##.swal-overlay--show-modal.swal-overlay
+
+! 2023-03-15 https://jiotech.net
+jiotech.net###sidebar-right
+
+! 2023-03-19 https://hellosehat.com
+hellosehat.com##.article-bottom-ad.dVAKkD.sc-73b7f9e0-0 > .cMmGQf.sc-73b7f9e0-1 > div
+hellosehat.com##.article-desktop-ad.cMmGQf.sc-73b7f9e0-1 > div
+
+! 2023-03-26 https://46.149.79.15
+46.149.79.15##.swal-overlay--show-modal.swal-overlay
+
+! 2023-03-27 https://dunia21.live
+dunia21.live###btop-right
+dunia21.live###top-b
+
+! 2023-03-28 https://mangaku.cam
+mangaku.cam###ftads
+mangaku.cam##.ewbnr
+
+! 2023-03-30 http://51.79.160.87
+51.79.160.87###top-banner
+51.79.160.87###float-banner
+51.79.160.87###float-bottom-banner > .close-banner
+
+! 2023-03-31 https://www.dotabuff.com
+www.dotabuff.com##.bxvoHG.sc-1036afj-4
+www.dotabuff.com##.bkYXbq.sc-1036afj-4
+www.dotabuff.com##.container-inner-content.container-inner > .molto-grande.multishot > .engage-unit-container.ljTzOO.sc-1i7jkv7-0 > .engage-unit-wrapper.cOICk.sc-1i7jkv7-1 > .fCHnQM.sc-13m3hg2-0 > .icGekx.sc-13m3hg2-1 > .ljTzOO.sc-1i7jkv7-0 > div > [href^="https://nyx-nyx-nyx.dotabuff.com/c"]
+www.dotabuff.com##.content-inner > .molto-grande.multishot > .engage-unit-container.ljTzOO.sc-1i7jkv7-0 > .engage-unit-wrapper.cOICk.sc-1i7jkv7-1 > .fCHnQM.sc-13m3hg2-0 > .icGekx.sc-13m3hg2-1 > .ljTzOO.sc-1i7jkv7-0 > div > [href^="https://nyx-nyx-nyx.dotabuff.com/c"]
+www.dotabuff.com##.col-4 > div.molto-grande.multishot > .engage-unit-container.ljTzOO.sc-1i7jkv7-0 > .engage-unit-wrapper.cOICk.sc-1i7jkv7-1 > .fCHnQM.sc-13m3hg2-0 > .icGekx.sc-13m3hg2-1 > .ljTzOO.sc-1i7jkv7-0 > div > [href^="https://nyx-nyx-nyx.dotabuff.com/c"]
+
+! 2023-04-01 https://ccurl.net
+ccurl.net###id4fded5f4f5f35 > span
+
+! 2023-04-05 https://download-new.apkmody.fun
+download-new.apkmody.fun##.swiper-pointer-events.swiper-vertical.swiper-initialized.swiper
+
+! 2023-04-05 https://download.apkmody.fun
+download.apkmody.fun##.swiper-pointer-events.swiper-vertical.swiper-initialized.swiper
+
+! 2023-04-06 https://212.118.54.70
+212.118.54.70##.swal-overlay--show-modal.swal-overlay
+
+! 2023-04-06 https://anoboy.ink
+anoboy.ink##[href="https://qqturbo1.biz/"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > .i-amphtml-replaced-content.i-amphtml-fill-content
+anoboy.ink##[href="https://qqturbo1.biz/"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+||anoboy.ink/img/totomaniac-anoboy.gif$image
+||anoboy.ink/img/*.gif$image
+anoboy.ink##[href="https://klik.gg/anoboy"]
+anoboy.ink##[href="https://klik.gg/anoboyvip"]
+anoboy.ink##[href^="https://Slotguru88.live/home/register"]
+anoboy.ink##div#judi:nth-of-type(3)
+anoboy.ink##[href="https://playbook88vip.com"]
+
+
+! 2023-04-16 https://batmanfactor.com
+batmanfactor.com##center:nth-of-type(4)
+batmanfactor.com##center:nth-of-type(5)
+batmanfactor.com##form.text-center > center
+
+! 2023-04-25 https://88.210.14.111
+88.210.14.111##[href="http://zlink.fun/idlix288"]
+88.210.14.111##.swal-overlay--show-modal.swal-overlay
+
+! 2023-04-25 https://anoboy.monster
+anoboy.monster##[href^="https://Slotguru88.live/home/register"]
+anoboy.monster##[href="https://klik.gg/anoboyvip"]
+anoboy.monster##[href="https://klik.gg/anoboy"]
+anoboy.monster##[href="https://qqturbo1.biz/"]
+anoboy.monster##[href^="https://totomaniac8.xyz/"]
+anoboy.monster##[href="https://playbook88vip.com"]
+
+! 2023-05-07 https://mcrypto.club
+mcrypto.club##.css-w4wpjj.qc-cmp-cleanslate
+
+! 2023-05-11 https://samehadaku.cam
+samehadaku.cam###floatcenter
+samehadaku.cam###floatbottom
+samehadaku.cam##[href="https://klik.fun/sameeksp90"]
+samehadaku.cam##[href="https://klik.fun/samehajp"]
+samehadaku.cam##[href="https://klik.fun/sameeksbm"]
+samehadaku.cam##[href="https://tinyurl.com/samehadaku36"]
+samehadaku.cam##[href="https://klik.fun/84JHp"]
+samehadaku.cam##[href="https://mangakyo.co/"]
+
+! 2023-05-11 https://mangakyo.org
+mangakyo.org##div.column:nth-of-type(2)
+mangakyo.org##.kln.mlb.blox > .column
+mangakyo.org###content > .row > div.column
+mangakyo.org###teaser3
+
+! 2023-05-12 https://anoboy.monster
+anoboy.monster##[href="https://tinyurl.com/anoboyvip"]
+anoboy.monster##[href^="https://slotguru88x.guru/home/register"]
+anoboy.monster##[href^="https://totomaniac1.art/"]
+anoboy.monster##[href="https://qqturbo.homes"]
+
+phineypet.com
+
+! 2023-05-17 https://mangaku.cam
+||disqus.com/embed/comments/?base=default&f=mangaku-4&t_u=https%3A%2F%2Fmangaku.cam%2Fmashle-magic-and-muscles-chapter-87%2F&t_d=Baca%20Manga%20Mashle%3A%20Magic%20and%20Muscles%20Chapter%2087%20Bahasa%20Indonesia&t_t=Baca%20Manga%20Mashle%3A%20Magic%20and%20Muscles%20Chapter%2087%20Bahasa%20Indonesia&s_o=default$subdocument
+
+! 2023-05-20 https://mangaku.cam
+||cdn.mangaku.my.id/gambar/2022/12/1afd708f26f66b840f8ae92c-f0a15f8dda12bd55a095a8d91de861e5.webp$image
+mangaku.cam##div.separator:nth-of-type(4)
+||disqus.com/embed/comments/?base=default&f=mangaku-4&t_u=https%3A%2F%2Fmangaku.cam%2Fmashle-magic-and-muscles-chapter-98%2F&t_d=Baca%20Manga%20Mashle%3A%20Magic%20and%20Muscles%20Chapter%2098%20Bahasa%20Indonesia&t_t=Baca%20Manga%20Mashle%3A%20Magic%20and%20Muscles%20Chapter%2098%20Bahasa%20Indonesia&s_o=default$subdocument
+mangaku.cam##div.separator:nth-of-type(5)
+mangaku.cam##div.separator:nth-of-type(40)
+||disqus.com/embed/comments/$subdocument
+||disqus.com/embed/comments/?base=default&f=mangaku-4&t_u=https%3A%2F%2Fmangaku.cam%2Fmashle-magic-and-muscles-chapter-111%2F&t_d=Baca%20Manga%20Mashle%3A%20Magic%20and%20Muscles%20Chapter%20111%20Bahasa%20Indonesia&t_t=Baca%20Manga%20Mashle%3A%20Magic%20and%20Muscles%20Chapter%20111%20Bahasa%20Indonesia&s_o=default$subdocument
+mangaku.cam###dsq-app401
+mangaku.cam###disqus_thread
+mangaku.cam###footer2 > .nctr
+mangaku.cam##div.separator:nth-of-type(42)
+
+! 2023-05-25 https://theconomy.me
+theconomy.me##center:nth-of-type(3)
+
+! 2023-05-26 https://samehadaku.day
+samehadaku.day###floatcenter
+samehadaku.day###floatbottom
+samehadaku.day##[href="https://klik.fun/sameeksp90"]
+samehadaku.day##[href="https://klik.best/samehajp"]
+samehadaku.day##[href="https://klik.fun/sameeksbm"]
+samehadaku.day##[href="https://tinyurl.com/samehadaku36"]
+
+! 2023-06-05 https://faucetgigs.com
+faucetgigs.com##.adb
+
+! 2023-06-05 https://coinsward.com
+coinsward.com##.adb
+
+! 2023-06-05 https://mcrypto.club
+mcrypto.club##.zipswskfjhsjkdfhcaqvwouhbmmwruymmzipswskfjhsjkdfhcaqvwouhb.zipswskfjhsjkdfhcaqvwouhbmmtupntmmzipswskfjhsjkdfhcaqvwouhb
+mcrypto.club##.zipswskfjhsjkdfhcaqvwouhbmmwruymmzipswskfjhsjkdfhcaqvwouhb.zipswskfjhsjkdfhcaqvwouhbmmtupntmmzipswskfjhsjkdfhcaqvwouhb
+mcrypto.club##.zipswskfjhsjkdfhcaqvwouhbmmwruymmzipswskfjhsjkdfhcaqvwouhb.zipswskfjhsjkdfhcaqvwouhbmmtupntmmzipswskfjhsjkdfhcaqvwouhb
+mcrypto.club##.pxzrqyskfjhsjkdfhskfjhsjkdfhcrkskfjhsjkdfhutzmmwruymmpxzrqyskfjhsjkdfhskfjhsjkdfhcrkskfjhsjkdfhutz.pxzrqyskfjhsjkdfhskfjhsjkdfhcrkskfjhsjkdfhutzmmtupntmmpxzrqyskfjhsjkdfhskfjhsjkdfhcrkskfjhsjkdfhutz
+mcrypto.club##.jupougxytyhutxzmmwruymmjupougxytyhutxz.jupougxytyhutxzmmtupntmmjupougxytyhutxz
+mcrypto.club##.bdowxjxxvjkpgedmmwruymmbdowxjxxvjkpged.bdowxjxxvjkpgedmmtupntmmbdowxjxxvjkpged
+mcrypto.club##.fxauskfjhsjkdfhvdxbgparqqmmwruymmfxauskfjhsjkdfhvdxbgparqq.fxauskfjhsjkdfhvdxbgparqqmmtupntmmfxauskfjhsjkdfhvdxbgparqq
+
+! 2023-06-05 https://adbitfly.in
+adbitfly.in##.adb
+
+! 2023-06-05 https://mcrypto.club
+mcrypto.club##.skfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhqmmwruymmskfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhq.skfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhqmmtupntmmskfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhq
+mcrypto.club##.skfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhqmmwruymmskfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhq.skfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhqmmtupntmmskfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhq
+mcrypto.club##.skfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhqmmwruymmskfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhq.skfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhqmmtupntmmskfjhsjkdfhsxskfjhsjkdfhfgfskfjhsjkdfhjskfjhsjkdfhdbzhq
+mcrypto.club##.yyskfjhsjkdfhskfjhsjkdfhoqqanverywgmmwruymmyyskfjhsjkdfhskfjhsjkdfhoqqanverywg.yyskfjhsjkdfhskfjhsjkdfhoqqanverywgmmtupntmmyyskfjhsjkdfhskfjhsjkdfhoqqanverywg
+mcrypto.club##.yyskfjhsjkdfhskfjhsjkdfhoqqanverywgmmwruymmyyskfjhsjkdfhskfjhsjkdfhoqqanverywg.yyskfjhsjkdfhskfjhsjkdfhoqqanverywgmmtupntmmyyskfjhsjkdfhskfjhsjkdfhoqqanverywg
+mcrypto.club##.yyskfjhsjkdfhskfjhsjkdfhoqqanverywgmmwruymmyyskfjhsjkdfhskfjhsjkdfhoqqanverywg.yyskfjhsjkdfhskfjhsjkdfhoqqanverywgmmtupntmmyyskfjhsjkdfhskfjhsjkdfhoqqanverywg
+mcrypto.club##.askfjhsjkdfhrtijseskfjhsjkdfhwebsetmmwruymmaskfjhsjkdfhrtijseskfjhsjkdfhwebset.askfjhsjkdfhrtijseskfjhsjkdfhwebsetmmtupntmmaskfjhsjkdfhrtijseskfjhsjkdfhwebset
+mcrypto.club##.cothedwyhkvwvwdmmwruymmcothedwyhkvwvwd.cothedwyhkvwvwdmmtupntmmcothedwyhkvwvwd
+mcrypto.club##.skfjhsjkdfhwbzhskfjhsjkdfhxavxwgrktmmwruymmskfjhsjkdfhwbzhskfjhsjkdfhxavxwgrkt.skfjhsjkdfhwbzhskfjhsjkdfhxavxwgrktmmtupntmmskfjhsjkdfhwbzhskfjhsjkdfhxavxwgrkt
+mcrypto.club##.eskfjhsjkdfhxjtgcrxhoaqajmmwruymmeskfjhsjkdfhxjtgcrxhoaqaj.eskfjhsjkdfhxjtgcrxhoaqajmmtupntmmeskfjhsjkdfhxjtgcrxhoaqaj
+mcrypto.club##.cothedwyhkvwvwdmmwruymmcothedwyhkvwvwd.cothedwyhkvwvwdmmtupntmmcothedwyhkvwvwd
+mcrypto.club##.skfjhsjkdfhwbzhskfjhsjkdfhxavxwgrktmmwruymmskfjhsjkdfhwbzhskfjhsjkdfhxavxwgrkt.skfjhsjkdfhwbzhskfjhsjkdfhxavxwgrktmmtupntmmskfjhsjkdfhwbzhskfjhsjkdfhxavxwgrkt
+mcrypto.club##.skfjhsjkdfhwbzhskfjhsjkdfhxavxwgrktmmwruymmskfjhsjkdfhwbzhskfjhsjkdfhxavxwgrkt.skfjhsjkdfhwbzhskfjhsjkdfhxavxwgrktmmtupntmmskfjhsjkdfhwbzhskfjhsjkdfhxavxwgrkt
+mcrypto.club##.txxaqarzzciigkymmwruymmtxxaqarzzciigky.txxaqarzzciigkymmtupntmmtxxaqarzzciigky
+mcrypto.club##.txxaqarzzciigkymmwruymmtxxaqarzzciigky.txxaqarzzciigkymmtupntmmtxxaqarzzciigky
+
+! 2023-06-06 https://mcrypto.club
+mcrypto.club##.zwisskfjhsjkdfhvajqbqfivcmmwruymmzwisskfjhsjkdfhvajqbqfivc.zwisskfjhsjkdfhvajqbqfivcmmtupntmmzwisskfjhsjkdfhvajqbqfivc
+mcrypto.club##.zwisskfjhsjkdfhvajqbqfivcmmwruymmzwisskfjhsjkdfhvajqbqfivc.zwisskfjhsjkdfhvajqbqfivcmmtupntmmzwisskfjhsjkdfhvajqbqfivc
+mcrypto.club##.puqpcifskfjhsjkdfhpskfjhsjkdfhkouncmmwruymmpuqpcifskfjhsjkdfhpskfjhsjkdfhkounc.puqpcifskfjhsjkdfhpskfjhsjkdfhkouncmmtupntmmpuqpcifskfjhsjkdfhpskfjhsjkdfhkounc
+mcrypto.club##.gjcfdvrthskfjhsjkdfhskfjhsjkdfhotevmmwruymmgjcfdvrthskfjhsjkdfhskfjhsjkdfhotev.gjcfdvrthskfjhsjkdfhskfjhsjkdfhotevmmtupntmmgjcfdvrthskfjhsjkdfhskfjhsjkdfhotev
+mcrypto.club##.jskfjhsjkdfhhshrtxttpogcemmwruymmjskfjhsjkdfhhshrtxttpogce.jskfjhsjkdfhhshrtxttpogcemmtupntmmjskfjhsjkdfhhshrtxttpogce
+mcrypto.club##.jskfjhsjkdfhhshrtxttpogcemmwruymmjskfjhsjkdfhhshrtxttpogce.jskfjhsjkdfhhshrtxttpogcemmtupntmmjskfjhsjkdfhhshrtxttpogce
+mcrypto.club##.kskfjhsjkdfhorhrjwueskfjhsjkdfhaaocmmwruymmkskfjhsjkdfhorhrjwueskfjhsjkdfhaaoc.kskfjhsjkdfhorhrjwueskfjhsjkdfhaaocmmtupntmmkskfjhsjkdfhorhrjwueskfjhsjkdfhaaoc
+mcrypto.club##.kskfjhsjkdfhorhrjwueskfjhsjkdfhaaocmmwruymmkskfjhsjkdfhorhrjwueskfjhsjkdfhaaoc.kskfjhsjkdfhorhrjwueskfjhsjkdfhaaocmmtupntmmkskfjhsjkdfhorhrjwueskfjhsjkdfhaaoc
+mcrypto.club##.kskfjhsjkdfhorhrjwueskfjhsjkdfhaaocmmwruymmkskfjhsjkdfhorhrjwueskfjhsjkdfhaaoc.kskfjhsjkdfhorhrjwueskfjhsjkdfhaaocmmtupntmmkskfjhsjkdfhorhrjwueskfjhsjkdfhaaoc
+
+! 2023-06-07 https://mcrypto.club
+mcrypto.club##.gihqskfjhsjkdfheewjkisipemmwruymmgihqskfjhsjkdfheewjkisipe.gihqskfjhsjkdfheewjkisipemmtupntmmgihqskfjhsjkdfheewjkisipe
+mcrypto.club##.cvzyfkjskfjhsjkdfhqoweyyqmmwruymmcvzyfkjskfjhsjkdfhqoweyyq.cvzyfkjskfjhsjkdfhqoweyyqmmtupntmmcvzyfkjskfjhsjkdfhqoweyyq
+mcrypto.club##.skfjhsjkdfhsbenfqgvjskfjhsjkdfhwtdskfjhsjkdfhmmwruymmskfjhsjkdfhsbenfqgvjskfjhsjkdfhwtdskfjhsjkdfh.skfjhsjkdfhsbenfqgvjskfjhsjkdfhwtdskfjhsjkdfhmmtupntmmskfjhsjkdfhsbenfqgvjskfjhsjkdfhwtdskfjhsjkdfh
+mcrypto.club##.tyaskfjhsjkdfhjtwskfjhsjkdfhdtngdjskfjhsjkdfhmmwruymmtyaskfjhsjkdfhjtwskfjhsjkdfhdtngdjskfjhsjkdfh.tyaskfjhsjkdfhjtwskfjhsjkdfhdtngdjskfjhsjkdfhmmtupntmmtyaskfjhsjkdfhjtwskfjhsjkdfhdtngdjskfjhsjkdfh
+mcrypto.club##.pqoxskfjhsjkdfhvkujytawpymmwruymmpqoxskfjhsjkdfhvkujytawpy.pqoxskfjhsjkdfhvkujytawpymmtupntmmpqoxskfjhsjkdfhvkujytawpy
+
+! 2023-06-07 https://theconomy.me
+theconomy.me##.adb
+theconomy.me##.adb
+theconomy.me##.adb
+theconomy.me##.adb
+
+! 2023-06-08 https://mcrypto.club
+mcrypto.club##.skfjhsjkdfhuyxskfjhsjkdfhyaoysiskfjhsjkdfhtnzmmwruymmskfjhsjkdfhuyxskfjhsjkdfhyaoysiskfjhsjkdfhtnz.skfjhsjkdfhuyxskfjhsjkdfhyaoysiskfjhsjkdfhtnzmmtupntmmskfjhsjkdfhuyxskfjhsjkdfhyaoysiskfjhsjkdfhtnz
+mcrypto.club##.qbskfjhsjkdfhzhgskfjhsjkdfhthhodzjsmmwruymmqbskfjhsjkdfhzhgskfjhsjkdfhthhodzjs.qbskfjhsjkdfhzhgskfjhsjkdfhthhodzjsmmtupntmmqbskfjhsjkdfhzhgskfjhsjkdfhthhodzjs
+mcrypto.club##.iaaskfjhsjkdfhyyvfenskfjhsjkdfhhrdgmmwruymmiaaskfjhsjkdfhyyvfenskfjhsjkdfhhrdg.iaaskfjhsjkdfhyyvfenskfjhsjkdfhhrdgmmtupntmmiaaskfjhsjkdfhyyvfenskfjhsjkdfhhrdg
+mcrypto.club##.xwcrzhbggdnfskfjhsjkdfhskfjhsjkdfhymmwruymmxwcrzhbggdnfskfjhsjkdfhskfjhsjkdfhy.xwcrzhbggdnfskfjhsjkdfhskfjhsjkdfhymmtupntmmxwcrzhbggdnfskfjhsjkdfhskfjhsjkdfhy
+mcrypto.club##.ccusdskfjhsjkdfhiskfjhsjkdfhwgskfjhsjkdfhagskfjhsjkdfhjmmwruymmccusdskfjhsjkdfhiskfjhsjkdfhwgskfjhsjkdfhagskfjhsjkdfhj.ccusdskfjhsjkdfhiskfjhsjkdfhwgskfjhsjkdfhagskfjhsjkdfhjmmtupntmmccusdskfjhsjkdfhiskfjhsjkdfhwgskfjhsjkdfhagskfjhsjkdfhj
+
+! 2023-06-08 https://theconomy.me
+theconomy.me##.adb
+
+! 2023-06-10 https://mcrypto.club
+mcrypto.club###zskfjhsjkdfhdoxthbxxaocjgmmtupntmmzskfjhsjkdfhdoxthbxxaocjg
+mcrypto.club###ztuskfjhsjkdfhsskfjhsjkdfhskfjhsjkdfhkskfjhsjkdfhpdskfjhsjkdfhanrmmtupntmmztuskfjhsjkdfhsskfjhsjkdfhskfjhsjkdfhkskfjhsjkdfhpdskfjhsjkdfhanr
+mcrypto.club###rqfskfjhsjkdfhiqssskfjhsjkdfhqgskfjhsjkdfhskfjhsjkdfhqimmtupntmmrqfskfjhsjkdfhiqssskfjhsjkdfhqgskfjhsjkdfhskfjhsjkdfhqi
+mcrypto.club##.ifrrxifpskfjhsjkdfhjskfjhsjkdfhskfjhsjkdfhrnjmmwruymmifrrxifpskfjhsjkdfhjskfjhsjkdfhskfjhsjkdfhrnj.ifrrxifpskfjhsjkdfhjskfjhsjkdfhskfjhsjkdfhrnjmmtupntmmifrrxifpskfjhsjkdfhjskfjhsjkdfhskfjhsjkdfhrnj
+mcrypto.club##.shphdskfjhsjkdfhyghaxskfjhsjkdfhivwmmwruymmshphdskfjhsjkdfhyghaxskfjhsjkdfhivw.shphdskfjhsjkdfhyghaxskfjhsjkdfhivwmmtupntmmshphdskfjhsjkdfhyghaxskfjhsjkdfhivw
+
+! 2023-06-10 https://theconomy.me
+theconomy.me##.adb
+theconomy.me##.adb
+
+! 2023-06-10 https://samehadaku.day
+samehadaku.day##[src="https://samehadaku.day/wp-content/uploads/2023/02/PRAGMATIC.gif"]
+samehadaku.day##[href="https://akses.games/samehada"]
+
+! 2023-06-10 https://mcrypto.club
+mcrypto.club##.juphfjvtbsjduskfjhsjkdfhdmmwruymmjuphfjvtbsjduskfjhsjkdfhd.juphfjvtbsjduskfjhsjkdfhdmmtupntmmjuphfjvtbsjduskfjhsjkdfhd
+mcrypto.club##.jvdvfrdwfbcysaemmwruymmjvdvfrdwfbcysae.jvdvfrdwfbcysaemmtupntmmjvdvfrdwfbcysae
+mcrypto.club##.skfjhsjkdfhbifuwskfjhsjkdfhnihipawymmwruymmskfjhsjkdfhbifuwskfjhsjkdfhnihipawy.skfjhsjkdfhbifuwskfjhsjkdfhnihipawymmtupntmmskfjhsjkdfhbifuwskfjhsjkdfhnihipawy
+mcrypto.club##.eibhrqpifyskfjhsjkdfhfoxrmmwruymmeibhrqpifyskfjhsjkdfhfoxr.eibhrqpifyskfjhsjkdfhfoxrmmtupntmmeibhrqpifyskfjhsjkdfhfoxr
+mcrypto.club##.inskfjhsjkdfhxyvbazdskfjhsjkdfhhskfjhsjkdfhpskfjhsjkdfhmmwruymminskfjhsjkdfhxyvbazdskfjhsjkdfhhskfjhsjkdfhpskfjhsjkdfh.inskfjhsjkdfhxyvbazdskfjhsjkdfhhskfjhsjkdfhpskfjhsjkdfhmmtupntmminskfjhsjkdfhxyvbazdskfjhsjkdfhhskfjhsjkdfhpskfjhsjkdfh
+mcrypto.club##.adb
+
+! 2023-06-11 https://mcrypto.club
+mcrypto.club##.etskfjhsjkdfhxskfjhsjkdfhskfjhsjkdfhsibvwfpbhmmwruymmetskfjhsjkdfhxskfjhsjkdfhskfjhsjkdfhsibvwfpbh.etskfjhsjkdfhxskfjhsjkdfhskfjhsjkdfhsibvwfpbhmmtupntmmetskfjhsjkdfhxskfjhsjkdfhskfjhsjkdfhsibvwfpbh
+mcrypto.club##.yvyzskfjhsjkdfhrjduunezeummwruymmyvyzskfjhsjkdfhrjduunezeu.yvyzskfjhsjkdfhrjduunezeummtupntmmyvyzskfjhsjkdfhrjduunezeu
+mcrypto.club##.skfjhsjkdfhhftqvuvtcecahzmmwruymmskfjhsjkdfhhftqvuvtcecahz.skfjhsjkdfhhftqvuvtcecahzmmtupntmmskfjhsjkdfhhftqvuvtcecahz
+mcrypto.club##.hxskfjhsjkdfhdeobpqydcyuqmmwruymmhxskfjhsjkdfhdeobpqydcyuq.hxskfjhsjkdfhdeobpqydcyuqmmtupntmmhxskfjhsjkdfhdeobpqydcyuq
+mcrypto.club##.ggwvskfjhsjkdfhnkxssgaokgmmwruymmggwvskfjhsjkdfhnkxssgaokg.ggwvskfjhsjkdfhnkxssgaokgmmtupntmmggwvskfjhsjkdfhnkxssgaokg
+
+! 2023-06-12 https://mcrypto.club
+mcrypto.club##.doqvicqbhsxvskfjhsjkdfhwgmmwruymmdoqvicqbhsxvskfjhsjkdfhwg.doqvicqbhsxvskfjhsjkdfhwgmmtupntmmdoqvicqbhsxvskfjhsjkdfhwg
+mcrypto.club##.dskfjhsjkdfhrqzhgpihoskfjhsjkdfhgskfjhsjkdfhimmwruymmdskfjhsjkdfhrqzhgpihoskfjhsjkdfhgskfjhsjkdfhi.dskfjhsjkdfhrqzhgpihoskfjhsjkdfhgskfjhsjkdfhimmtupntmmdskfjhsjkdfhrqzhgpihoskfjhsjkdfhgskfjhsjkdfhi
+mcrypto.club##.xciraqhenavftcbmmwruymmxciraqhenavftcb.xciraqhenavftcbmmtupntmmxciraqhenavftcb
+mcrypto.club##.gtucfxskfjhsjkdfhohusnsqwmmwruymmgtucfxskfjhsjkdfhohusnsqw.gtucfxskfjhsjkdfhohusnsqwmmtupntmmgtucfxskfjhsjkdfhohusnsqw
+mcrypto.club##.sqcdzyrehvnfstvmmwruymmsqcdzyrehvnfstv.sqcdzyrehvnfstvmmtupntmmsqcdzyrehvnfstv
+
+! 2023-06-13 https://mcrypto.club
+mcrypto.club##.skfjhsjkdfhxafrzagukroaeskfjhsjkdfhmmwruymmskfjhsjkdfhxafrzagukroaeskfjhsjkdfh.skfjhsjkdfhxafrzagukroaeskfjhsjkdfhmmtupntmmskfjhsjkdfhxafrzagukroaeskfjhsjkdfh
+mcrypto.club##.skfjhsjkdfhxafrzagukroaeskfjhsjkdfhmmwruymmskfjhsjkdfhxafrzagukroaeskfjhsjkdfh.skfjhsjkdfhxafrzagukroaeskfjhsjkdfhmmtupntmmskfjhsjkdfhxafrzagukroaeskfjhsjkdfh
+mcrypto.club##.oegggxskfjhsjkdfhbzcctcznmmwruymmoegggxskfjhsjkdfhbzcctczn.oegggxskfjhsjkdfhbzcctcznmmtupntmmoegggxskfjhsjkdfhbzcctczn
+mcrypto.club##.pfhskfjhsjkdfhvtrwcskfjhsjkdfhqgwznmmwruymmpfhskfjhsjkdfhvtrwcskfjhsjkdfhqgwzn.pfhskfjhsjkdfhvtrwcskfjhsjkdfhqgwznmmtupntmmpfhskfjhsjkdfhvtrwcskfjhsjkdfhqgwzn
+mcrypto.club##.qgtzqskfjhsjkdfhskfjhsjkdfhkoijigjummwruymmqgtzqskfjhsjkdfhskfjhsjkdfhkoijigju.qgtzqskfjhsjkdfhskfjhsjkdfhkoijigjummtupntmmqgtzqskfjhsjkdfhskfjhsjkdfhkoijigju
+mcrypto.club##.iskfjhsjkdfhskfjhsjkdfhujojnyqgkuvtmmwruymmiskfjhsjkdfhskfjhsjkdfhujojnyqgkuvt.iskfjhsjkdfhskfjhsjkdfhujojnyqgkuvtmmtupntmmiskfjhsjkdfhskfjhsjkdfhujojnyqgkuvt
+
+! 2023-06-13 https://go.theconomy.me
+||diclotrans.com/impr/ii/as/Chw1Mjc3OTYzNS0xNDQ5MC0xNjg2NzA2NzQ4MDg3ENyYlZDL65yWVRoBASDcmJWQy-ucllUqAQEyEwoAEg9nby50aGVjb25vbXkubWU6BwiNmYK9nwVCAkVOYgwKCggMEAkaBAX14QBqFwoVCgVJTUFHRRIMc3M6NTg5NDQ0Mzc1ergBCgMImnESEgoQCBoQFhoKAhiuGWuNTzAAABqcAQoWCP___________wEQ____________ARISChAIGhAXGgoCHhngybqyQAAAGm4KAwiZcRISChAIGhAXGgoCHhngybqyQAAAGlMKBwifFRCBhBcSDgoMCBAQDRoGAOjUpRAAGjgKCwj___________8BEg4KDAgQEA0aBgDo1KUQABoZCgcIqyAQgYQXEg4KDAgQEA0aBgDo1KUQAJABZKIBDElOVEVSU1RJVElBTKoBAzI0NrABAcIBAMoBIDMzMjU3NjNhZmQxNjA1ZTM0Nzg0NDc3ZDYzODgxZDcw0gEDV0VC2gEEMjc3MA/au/52779635-14490-1686706748087$image
+
+! 2023-06-14 https://mcrypto.club
+mcrypto.club##.baqhgskfjhsjkdfhjfhoxdfvbmmwruymmbaqhgskfjhsjkdfhjfhoxdfvb.baqhgskfjhsjkdfhjfhoxdfvbmmtupntmmbaqhgskfjhsjkdfhjfhoxdfvb
+mcrypto.club##.dthuaxskfjhsjkdfhszqzskfjhsjkdfhtptmmwruymmdthuaxskfjhsjkdfhszqzskfjhsjkdfhtpt.dthuaxskfjhsjkdfhszqzskfjhsjkdfhtptmmtupntmmdthuaxskfjhsjkdfhszqzskfjhsjkdfhtpt
+mcrypto.club##.xbpszskfjhsjkdfhxndgwxgvammwruymmxbpszskfjhsjkdfhxndgwxgva.xbpszskfjhsjkdfhxndgwxgvammtupntmmxbpszskfjhsjkdfhxndgwxgva
+mcrypto.club##.quzsryqssskfjhsjkdfhbshqommwruymmquzsryqssskfjhsjkdfhbshqo.quzsryqssskfjhsjkdfhbshqommtupntmmquzsryqssskfjhsjkdfhbshqo
+mcrypto.club##.arxwqskfjhsjkdfhajosrcskfjhsjkdfhojmmwruymmarxwqskfjhsjkdfhajosrcskfjhsjkdfhoj.arxwqskfjhsjkdfhajosrcskfjhsjkdfhojmmtupntmmarxwqskfjhsjkdfhajosrcskfjhsjkdfhoj
+
+! 2023-06-15 https://samehadaku.bio
+samehadaku.bio###floatcenter
+samehadaku.bio##[href="https://akses.games/sameha"]
+samehadaku.bio##[href="https://klik.best/samehajp"]
+samehadaku.bio##[href="https://akses.games/samehada"]
+samehadaku.bio##[href="https://tinyurl.com/samehadaku36"]
+samehadaku.bio###floatbottom
+
+! 2023-06-15 https://77.105.142.75
+77.105.142.75##.swal-overlay--show-modal.swal-overlay
+
+! 2023-06-15 https://mdn.lol
+mdn.lol##div.form-group:nth-of-type(1)
+
+! 2023-06-15 https://mcrypto.club
+mcrypto.club##.ywjbywaskfjhsjkdfhzwsbskfjhsjkdfhzvmmwruymmywjbywaskfjhsjkdfhzwsbskfjhsjkdfhzv.ywjbywaskfjhsjkdfhzwsbskfjhsjkdfhzvmmtupntmmywjbywaskfjhsjkdfhzwsbskfjhsjkdfhzv
+mcrypto.club##.cskfjhsjkdfhfqhzzoxskfjhsjkdfhiwasvmmwruymmcskfjhsjkdfhfqhzzoxskfjhsjkdfhiwasv.cskfjhsjkdfhfqhzzoxskfjhsjkdfhiwasvmmtupntmmcskfjhsjkdfhfqhzzoxskfjhsjkdfhiwasv
+mcrypto.club##.uoegcdsufskfjhsjkdfhazskfjhsjkdfhkimmwruymmuoegcdsufskfjhsjkdfhazskfjhsjkdfhki.uoegcdsufskfjhsjkdfhazskfjhsjkdfhkimmtupntmmuoegcdsufskfjhsjkdfhazskfjhsjkdfhki
+mcrypto.club##.cfakskfjhsjkdfhskfjhsjkdfhfzskfjhsjkdfhpyfkixmmwruymmcfakskfjhsjkdfhskfjhsjkdfhfzskfjhsjkdfhpyfkix.cfakskfjhsjkdfhskfjhsjkdfhfzskfjhsjkdfhpyfkixmmtupntmmcfakskfjhsjkdfhskfjhsjkdfhfzskfjhsjkdfhpyfkix
+mcrypto.club##.fheqboeaskfjhsjkdfhqhvskfjhsjkdfhskfjhsjkdfhqmmwruymmfheqboeaskfjhsjkdfhqhvskfjhsjkdfhskfjhsjkdfhq.fheqboeaskfjhsjkdfhqhvskfjhsjkdfhskfjhsjkdfhqmmtupntmmfheqboeaskfjhsjkdfhqhvskfjhsjkdfhskfjhsjkdfhq
+
+! 2023-06-17 https://mdn.lol
+mdn.lol##div.form-group:nth-of-type(12)
+mdn.lol##center > div.form-group > div
+
+! 2023-06-20 https://coinsward.com
+coinsward.com##.mh-clearfix.mh-wrapper
+
+! 2023-06-23 http://38.242.202.181
+38.242.202.181##.idmuvi-floatbanner-footer.idmuvi-floatbanner
+38.242.202.181###floating_banner_top1
+38.242.202.181##.gmr-content
+38.242.202.181###ouibounce-modal
+
+! 2023-06-23 http://38.242.237.91
+38.242.237.91##.underlay
+38.242.237.91###ouibounce-modal
+38.242.237.91###floating_banner_top1
+38.242.237.91##.idmuvi-floatbanner-footer.idmuvi-floatbanner
+
+! 2023-07-03 https://mdn.lol
+mdn.lol###dac7472fca1d208beba58b824a5ad3f02e0ca28dad0bbc48915459b45e64f688f
+mdn.lol###h46374730519bbc21f3a1d9720dee9ac4746fecdcf8525899c7d6709abb175d94
+
+! 2023-07-03 https://shorterall.com
+shorterall.com##div:nth-of-type(8)
+shorterall.com###gath3r-optin-dialog
+
+! 2023-07-03 https://mdn.lol
+mdn.lol##center > .tba23209f5744dd45c9894d0126047748022b9dc25643757ec36e60016fb75f20
+||ad.a-ads.com/2220838?size=728x90$subdocument
+mdn.lol##form > .w1a31dc95ce3fac94c7cfec50f6e2bb6d36c2deeda873ae678ad9b93c6ed1b3a5
+mdn.lol##center > .w1a31dc95ce3fac94c7cfec50f6e2bb6d36c2deeda873ae678ad9b93c6ed1b3a5
+mdn.lol##[src="//ad.a-ads.com/2220838?size=728x90"]
+
+! 2023-07-04 https://coinsward.com
+coinsward.com##div.box-primary.box:nth-of-type(2)
+coinsward.com##.bg_cover.footer-area
+
+! 2023-07-04 https://mdn.lol
+mdn.lol##form > .zedbf9112ea509888a273e01189023e016009a4f11e535cbb349776ec64d14a13
+
+! 2023-07-09 https://coinsward.com
+coinsward.com##.info
+coinsward.com###popup > .\36 4a6f51b7f59d0b419a82fcc
+coinsward.com###popup
+
+! 2023-07-15 https://tv.idlixprime.com
+tv.idlixprime.com###repop
+
+! 2023-07-24 https://coinsward.com
+coinsward.com##div.ads-container:nth-of-type(7)
+
+! 2023-07-24 https://luckydice.net
+luckydice.net##.panel-body > .row
+
+! 2023-07-25 https://techedifier.com
+techedifier.com##center:nth-of-type(4)
+techedifier.com##center:nth-of-type(5)
+techedifier.com##form.text-center > center
+
+! 2023-07-31 https://htmljstemplates.com
+htmljstemplates.com##.p-4.justify-content-around.align-items-center.d-flex.w-100.h-100
+htmljstemplates.com##.vh-100.top-0.start-0.w-100.position-fixed
+
+! 2023-08-01 https://coinsward.com
+coinsward.com##div.ads-container:nth-of-type(5)
+||cryptocoinsad.com/ads/show.php?a=256688&b=397414$subdocument
+coinsward.com##div.ads-container:nth-of-type(9)
+coinsward.com###wpsafegenerate > div.ads-container > div.ad-container
+coinsward.com##div.ads-container:nth-of-type(4)
+
+! 2023-08-05 https://mdn.lol
+mdn.lol##div.demand-supply:nth-of-type(5)
+mdn.lol###click
+mdn.lol##div.demand-supply:nth-of-type(6)
+mdn.lol###vdkwpjr958de37dd29d9ee2839b6d3bbeef198559d6d28427c5fe528c77692364132996
+mdn.lol###cdkwpjr4cda6798c72d369cda4674c4ff4c0facb1e8083c7c9dc3c83803489697147dbf > div.demand-supply
+mdn.lol##div.demand-supply:nth-of-type(3)
+mdn.lol###vdkwpjrab2cdff442cfb0e4365931b1858d7e1059cf7871b3e39bb480a5d5ef082937f3
+mdn.lol###virxnzqb941b9094adedbf64787c6ce31718f1c03ceaeddd1c73d6bb9cb7057bea30ad3
+
+! 2023-08-05 https://techedifier.com
+||techedifier.com/728x90.png$image
+techedifier.com##center:nth-of-type(6)
+
+! 2023-08-12 https://mdn.lol
+mdn.lol##div.demand-supply:nth-of-type(104)
+mdn.lol##div.demand-supply:nth-of-type(90)
+
+! 2023-08-12 https://samehadaku.bar
+samehadaku.bar###floatcenter
+samehadaku.bar###floatbottom
+samehadaku.bar##[href="https://tinyurl.com/samehadakuklik"]
+samehadaku.bar##[href="https://klik.best/samehajp"]
+
+! 2023-08-12 https://oploverz.vip
+oploverz.vip##.kln.mlb.blox
+oploverz.vip##div.kln:nth-of-type(1)
+oploverz.vip##div.kln:nth-of-type(3)
+
+! 2023-08-14 https://adbitfly.com
+adbitfly.com##.adb
+
+! 2023-08-14 https://exeo.app
+exeo.app##.steps-container
+exeo.app##article
+
+! 2023-08-14 https://mdn.lol
+mdn.lol##div.demand-supply:nth-of-type(39)
+
+! 2023-08-16 https://medium.com
+medium.com##.go.cn.q.ab.acu.act.acs.acr.acq.acp.v.aco.t.acn
+
+! 2023-08-16 https://blogsward.com
+blogsward.com##.adb
+
+! 2023-08-18 https://mcrypto.club
+mcrypto.club###click p
+
+! 2023-08-19 https://misterio.ro
+misterio.ro##form.text-center > center
+
+! 2023-08-20 https://yogablogfit.com
+yogablogfit.com##h2:nth-of-type(1)
+
+! 2023-08-20 https://exego.app
+exego.app##.steps-container
+exego.app##article
+exego.app##header
+exego.app##footer
+
+! 2023-08-20 https://coinsward.com
+coinsward.com##div.ad-container:nth-of-type(2)
+coinsward.com##div.ads-container:nth-of-type(11)
+
+! 2023-08-26 https://techedifier.com
+||techedifier.com/728x90.png$image
+techedifier.com##th:nth-of-type(3)
+techedifier.com###content > center
+techedifier.com##center:nth-of-type(4)
+techedifier.com##center:nth-of-type(5)
+techedifier.com##center:nth-of-type(5)
+techedifier.com##center:nth-of-type(5)
+techedifier.com##center:nth-of-type(4)
+techedifier.com##.ccc > tbody > tr > th > center > .ad-wrapper
+
+
+! 2023-08-26 https://mejoresperfumes.club
+mejoresperfumes.club##form.text-center > center
+mejoresperfumes.club##center:nth-of-type(4)
+mejoresperfumes.club##center:nth-of-type(5)
+mejoresperfumes.club##center:nth-of-type(2)
+mejoresperfumes.club##center:nth-of-type(6)
+mejoresperfumes.club###content > center:nth-of-type(1)
+
+! 2023-08-26 https://batmanfactor.com
+batmanfactor.com###content > center:nth-of-type(1)
+batmanfactor.com##center:nth-of-type(2)
+batmanfactor.com##center:nth-of-type(6)
+
+! 2023-08-26 https://misterio.ro
+||misterio.ro/*.png$image
+misterio.ro##center:nth-of-type(4)
+misterio.ro##center:nth-of-type(5)
+misterio.ro##center:nth-of-type(2)
+misterio.ro###content > center:nth-of-type(1)
+misterio.ro##center:nth-of-type(6)
+
+! 2023-08-27 https://coinsward.com
+coinsward.com##div.ads-container:nth-of-type(10)
+
+! 2023-08-30 https://coinsward.com
+coinsward.com##div.ads-container:nth-of-type(6)
+coinsward.com##div.ads-container:nth-of-type(2)
+
+! 2023-08-30 https://theconomy.me
+theconomy.me##[src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FJunglerLG%2Fvideos%2F219848617404166%2F&show_text=false&width=560&t=0"]
+theconomy.me##[src="https://player.kick.com/junglerlg"]
+theconomy.me##[src="https://player.twitch.tv/?channel=junglerlg&parent=links.theconomy.me"]
+
+! 2023-09-12 https://batmanfactor.com
+||batmanfactor.com/300x600.png$image
+||batmanfactor.com/*0.png$image
+
